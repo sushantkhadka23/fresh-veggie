@@ -25,8 +25,8 @@
 Special thanks to the following tools and packages:
 
 - **[Firebase](https://firebase.google.com/):** For backend services including authentication, database, and storage.
-- **[fonepage](https://pub.dev/packages/fonepage):** Unofficial package for payment integration.
-- **[unofficial_esewa](https://pub.dev/packages/unofficial_esewa):** Unofficial package for payment integration.
+- **[fonepage](https://pub.dev/packages/fonepay_flutter):** Unofficial package for payment integration.
+- **[unofficial_esewa](https://pub.dev/packages/esewa_flutter):** Unofficial package for payment integration.
 
 ## License
 
