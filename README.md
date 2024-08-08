@@ -1,12 +1,12 @@
 # FreshVeggie
 
-**FreshVeggie** is a minimal shopping app developed for a college project. This app facilitates buying and selling fruits and vegetables locally. It integrates Firebase for authentication, database management, and file storage, with payment options supported through unofficial packages. 
+**FreshVeggie** is a minimal shopping app developed for a college project. This app facilitates buying and selling fruits and vegetables locally. It integrates Firebase for authentication, database management, and file storage, with payment options supported through unofficial packages.
 
 **Note:** This app is designed for **Android** and **iOS** platforms only.
 
 ## Features
 
-- **User Authentication:** Sign up and log in using Firebase Authentication.
+- **User Authentication:** Sign up and log in using Firebase Authentication with phone number and Google Sign-In options.
 - **Product Listings:** View fruits and vegetables in separate categories.
 - **Add to Cart:** Add products to your cart for purchase.
 - **User Transactions:** Track and view your purchase history in the profile tab.
